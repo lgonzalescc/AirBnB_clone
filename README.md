@@ -22,7 +22,7 @@ It consists of the implementation of a command line interface in the PYTHON prog
 ## How to Start it
 `Install`
 ```python3
-git clone https://github.com/Ineffable22/AirBnB_clone
+git clone https://github.com/lgonzalescc/AirBnB_clone
 ```
 `Open AirBnb_clone directory`
 ```python3
@@ -109,4 +109,4 @@ EOF  all  count  create  destroy  dupdate  help  quit  show  update
 <p align="center"><img src="https://images.squarespace-cdn.com/content/v1/56a7f187a2bab83fab5d4afc/1539942258535-T72FPLOO53S2HXIAU74F/BBC3_Walk.gif?format=1500w" width="700"></p>
 
 # Authors
-* Miguel Grillo - [GitHub](https://github.com/Ineffable22) - [Medium](https://medium.com/@Miguel_Grillo) - [Linkedin](https://www.linkedin.com/in/miguel-enrique-grillo-orellana/)
+* Luis Gonzales - [GitHub](https://github.com/lgonzalescc) - [Medium](https://medium.com/@Miguel_Grillo) - [Linkedin](https://www.linkedin.com/in/miguel-enrique-grillo-orellana/)
