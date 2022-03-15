@@ -109,4 +109,4 @@ EOF  all  count  create  destroy  dupdate  help  quit  show  update
 <p align="center"><img src="https://images.squarespace-cdn.com/content/v1/56a7f187a2bab83fab5d4afc/1539942258535-T72FPLOO53S2HXIAU74F/BBC3_Walk.gif?format=1500w" width="700"></p>
 
 # Authors
-* Luis Gonzales - [GitHub](https://github.com/lgonzalescc) - [Medium](https://medium.com/@Miguel_Grillo) - [Linkedin](https://www.linkedin.com/in/miguel-enrique-grillo-orellana/)
+* Luis Gonzales - [GitHub](https://github.com/lgonzalescc) - [Medium](https://medium.com/@luisgonzacc) - [Linkedin](https://www.linkedin.com/in/luisgonzacc)
